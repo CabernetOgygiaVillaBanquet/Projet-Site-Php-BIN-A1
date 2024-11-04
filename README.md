@@ -1,13 +1,13 @@
 # Projet-Site-Php-BIN-A1
 
 Consignes
-Nombre de personnes par groupe: 4
-Règles de constitution des groupes: Libre
+- Nombre de personnes par groupe: 4
+- Règles de constitution des groupes: Libre
 
 Objectifs
-Sujet du projet: Création d'un site Web en PHP
-Type de rendu: Sources du projet au format zip
-Date de rendu de projet: 14/01/2023 23H42 (Tout retard sera refusé)
+- Sujet du projet: Création d'un site Web en PHP
+- Type de rendu: Sources du projet au format zip
+- Date de rendu de projet: 14/01/2023 23H42 (Tout retard sera refusé)
 
 Le code doit être rendu dans une archive ZIP. (malus si autre format) Pensez à mettre le dump SQL de votre base dans l'archive
 
